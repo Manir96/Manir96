@@ -1,19 +1,44 @@
-<h1 align="center">Hi 👋, I'm Maniruzzaman</h1>
-<h3 align="center">Python Backend Developer | Automation & API Specialist</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E5CAD&height=200&section=header&text=Maniruzzaman&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<h3 align="center">
+Python Backend Developer • Automation Engineer • API Specialist
+</h3>
 
 <p align="center">
-I help businesses and startups build <b>reliable backend systems</b>, 
-<b>REST APIs</b>, and <b>automation solutions</b> using Python & Django.
+I design, build, and maintain <b>scalable backend systems</b>, 
+<b>secure REST APIs</b>, and <b>automation solutions</b> that help businesses 
+save time, reduce errors, and grow efficiently.
+</p>
+
+<p align="center">
+🇧🇩 Based in Bangladesh • 🌍 Working with global clients
 </p>
 
 ---
 
+## 🧠 Professional Summary
+
+I am a results-driven **Python Backend Developer** with hands-on experience in building 
+production-ready Django applications, RESTful APIs, and automation systems.  
+
+I specialize in:
+- improving existing backend systems  
+- fixing complex bugs  
+- automating repetitive workflows  
+- delivering clean, maintainable, and well-documented code  
+
+My focus is always on **performance, reliability, and long-term maintainability**.
+
+---
+
 ## 🚀 What I Do
-- 🔹 Build REST APIs (Django / Django REST Framework)
-- 🔹 Fix bugs & improve existing Django projects
-- 🔹 Automate tasks using Python & Selenium
-- 🔹 API testing & backend optimization
-- 🔹 Custom admin panels (without default Django admin)
+- 🔹 Design & develop REST APIs using Django & DRF
+- 🔹 Fix bugs and refactor existing Django projects
+- 🔹 Build automation scripts using Python & Selenium
+- 🔹 API testing, validation, and optimization
+- 🔹 Custom admin dashboards (without Django default admin)
 
 ---
 
@@ -36,41 +61,45 @@ I help businesses and startups build <b>reliable backend systems</b>,
 
 ### 🗄 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
 ### ⚙ Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" />
 </p>
 
 ---
 
-## 📌 Why Hire Me?
-✔ Clean & maintainable code  
-✔ Strong problem-solving mindset  
-✔ Clear communication  
-✔ Fast delivery for small & mid-size tasks  
+## 💼 Services I Offer
+- Django Bug Fix & Feature Development  
+- REST API Design & Development  
+- Python Automation Scripts  
+- Selenium Web Automation  
+- API Integration & Testing  
+- Custom Admin / Dashboard Development  
+
+---
+
+## 📌 Why Clients Choose Me
+✔ Clean, readable, and maintainable code  
+✔ Strong debugging & problem-solving skills  
+✔ Clear and professional communication  
+✔ Fast turnaround for small & mid-scale tasks  
 ✔ Long-term support mindset  
 
 ---
 
-## 💼 Services I Offer
-- Django Bug Fix & Feature Add
-- REST API Development
-- Python Automation Scripts
-- Selenium Web Automation
-- API Integration & Testing
-- Custom Dashboard / Admin Panel
-
----
-
-## 📫 Contact Me
+## 📫 Contact
 - 📧 Email: **maniruzzaman.manir96@gmail.com**
 - 💬 GitHub: [github.com/Manir96](https://github.com/Manir96)
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to star my repositories!
+⭐ If you find my work useful, feel free to star my repositories
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E5CAD&height=40&section=footer" />
 </p>
